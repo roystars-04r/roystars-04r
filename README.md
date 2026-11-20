@@ -8,8 +8,6 @@ Building **[Mesh](https://github.com/roystars-04r/mesh)** — a local-first orch
 ![GitHub Streak](https://streak-stats.demolab.com?user=roystars-04r&theme=onedark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roystars-04r&layout=compact&theme=onedark&hide_border=true)
 
-<!-- 奖杯墙：官方公共实例目前返回 402 DEPLOYMENT_DISABLED，恢复后把下面一行移出注释即可
-![Trophy](https://github-profile-trophy.vercel.app/?username=roystars-04r&theme=onedark&column=7&no-bg=true&no-frame=true)
--->
+![Trophy](https://github-profile-trophy-six-murex.vercel.app/?username=roystars-04r&theme=onedark&column=7&no-bg=true&no-frame=true)
 
 **Try it:** `npm i -g mesh-orchestrator` · [source](https://github.com/roystars-04r/mesh) · [docs](https://github.com/roystars-04r/mesh#readme)
